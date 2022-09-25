@@ -89,5 +89,6 @@ def primer_ejercicio():
     print(f'El numero de alumnos activos es: {estudiantes_activos()}')
 
 
+
 if __name__ == "__main__":
     primer_ejercicio()
